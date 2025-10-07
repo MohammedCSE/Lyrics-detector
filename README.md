@@ -14,4 +14,4 @@ Easy to use ,just logging and get an access token and use it in program.
 
 Program's working model:
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/MohammedCSE/Lyrics-detector/blob/639d557c2ca63e544d58e744a59949adfc034827/Screenshot%202025-10-07%20114954.png)
